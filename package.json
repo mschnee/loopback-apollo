@@ -15,7 +15,9 @@
   "dependencies": {
     "@loopback/context": "^3.18.0",
     "@loopback/core": "^2.18.0",
+    "@loopback/http-server": "^2.5.4",
     "@loopback/metadata": "^3.3.4",
+    "apollo-server-express": "^3.5.0",
     "graphql": "^16.0.1"
   }
 }
