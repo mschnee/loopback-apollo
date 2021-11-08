@@ -1,0 +1,21 @@
+{
+  "name": "@loopback/apollo",
+  "version": "1.0.0",
+  "description": "An Apollo Server component for loopback, alternative to @loopback/graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@loopback/build": "^7.0.2"
+  },
+  "dependencies": {
+    "@loopback/context": "^3.18.0",
+    "@loopback/core": "^2.18.0",
+    "@loopback/metadata": "^3.3.4",
+    "graphql": "^16.0.1"
+  }
+}
